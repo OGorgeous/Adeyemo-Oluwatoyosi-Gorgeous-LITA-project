@@ -68,6 +68,13 @@ Exploratory Data Analysis (EDA) is an interative process of analyzing and visual
   - The average sales for each product
   - The total revenue for each region.
 
+![Sales Pivot Table](https://github.com/user-attachments/assets/358618da-6e6e-4938-ad79-fcd7d2997e37)
+
+![SQL sales 1](https://github.com/user-attachments/assets/4435c664-80af-4e5e-ad86-19a048a1fadb)
+
+![Sql Sales 2](https://github.com/user-attachments/assets/0e2eaf8c-af32-4e69-9495-6645d5cb533e)
+
+
 ### Data Analysis
 ---
 The following are some of the formulars and queries used:
@@ -152,5 +159,7 @@ Update [dbo].[Sales Data]
 
 ### Visual Data Presentation
 ---
+
+![Dashboard Sales](https://github.com/user-attachments/assets/ef94ccf1-0809-4a66-bc0a-66bb0244075e)
 
 ### Summation
