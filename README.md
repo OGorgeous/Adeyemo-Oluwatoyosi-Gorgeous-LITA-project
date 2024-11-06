@@ -19,7 +19,7 @@
 
 [Visual Data Presentation](#visual-data-presentation)
 
-[Summation](#summation)
+[Outcome](#outcome)
 
 ### Project Briefing
 ---
@@ -162,4 +162,6 @@ Update [dbo].[Sales Data]
 
 ![Dashboard Sales](https://github.com/user-attachments/assets/ef94ccf1-0809-4a66-bc0a-66bb0244075e)
 
-### Summation
+### Outcome
+---
+These analyses can recommend strategies such as promotion of product, product improvement, regional marketing efficiency, proper distribution of products, customer retention strategies, price adjustment, rebranding and any other strategy that can help maximize revenue and improve customers satifaction. 
