@@ -1,33 +1,35 @@
-# Adeyemo-Oluwatoyosi-Gorgeous-LITA-project
+# Adeyemo Oluwatoyosi Gorgeous LITA Project
 
 ## Project Title: _*A Retail Store Sales Performance*_
 
 ---
 ### Content
 ---
-[Project Overview](#project-overview)
+[Project Briefing](#project-briefing)
 
-[Data Sources](#data-sources)
+[Data Origins](#data-origins)
 
-[Tools Used](#tools-used)
+[Data Tools Used](#data-tools-used)
 
-[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+[Data Preprocessing](#data-preprocessing)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data Analysis](#data-analysis)
 
-[Data Visualization](#data-visualization)
+[Visual Data Presentation](#visual-data-presentation)
 
-### Project Overview
+[Summation](#summation)
+
+### Project Briefing
 ---
   This Data Analysis Project is aimed focused on analysing the sales record of a retail store. Exploring the sales dataset to reveal and uncover key perceptions such as the sales trends of all the products, top-selling products, regional sales trends and monthly sales trend. Generating an interactive dashboard that features these trends.
   
-### Data Sources
+### Data Origins
 ---
   The data was provided by The Incubator Hub: Ladies in Tech.
   
-### Tools Used
+### Data Tools Used
 ---
   - Microsoft Excel [Download here](https://www.microsoft.com)
       1. *For Data cleaning*
@@ -38,7 +40,7 @@
   - Power BI
       1. *Data Visualisation*
 
-### Data Cleaning and Preparations
+### Data Preprocessing
 ---
   In this aspect, which is cleaning and preparation of the dataset, the following was performed;
 - Data Loading
@@ -59,7 +61,7 @@ Exploratory Data Analysis (EDA) is an interative process of analyzing and visual
 ### Data Analysis
 ---
 
-### Data Visualization
+### Visual Data Presentation
 ---
 
-### Conclusion
+### Summation
